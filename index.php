@@ -1,5 +1,5 @@
 <!-- 
-    Calculadora de Tablas de Verdad
+    Calculadora de Tablas de Verdad Web
     Desarrollado por [Jose Luis Martos]
     Descripción: Esta aplicación permite generar tablas de verdad a partir de expresiones lógicas ingresadas por el usuario. 
     Esta calculadora es diseñada para la materia de Matemáticas Discretas nocturno - Unicomfacauca
